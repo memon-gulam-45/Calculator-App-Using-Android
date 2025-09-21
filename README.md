@@ -16,11 +16,9 @@ This app performs all basic arithmetic operations with a clean and user-friendly
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your app here)  
-
-| Home Screen | Performing Calculation | Result |
-|-------------|-------------------------|--------|
-| ![screenshot1](screenshots/s1.png) | ![screenshot2](screenshots/s2.png) | ![screenshot3](screenshots/s3.png) |
+| Home Screen | Result |
+|-------------| --------|
+| ![Home Screen](Screenshots/home.jpg) | ![Result](Screenshots/result.jpg) |
 
 ---
 

@@ -53,7 +53,8 @@
             android:textSize="30dp"
             android:fontFamily="sans-serif-condensed"
             android:textFontWeight="800"
-            android:text="CE" />
+            android:text="CE"
+            android:textColor="@color/white"/>
         <Button
             android:id="@+id/backBtn"
             android:backgroundTint="@color/darkGrey"
@@ -64,7 +65,8 @@
             android:textSize="30dp"
             android:fontFamily="sans-serif-condensed"
             android:textFontWeight="800"
-            android:text="⌫" />
+            android:text="⌫"
+            android:textColor="@color/white" />
 
     </LinearLayout>
 
@@ -87,7 +89,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="1" />
+            android:text="1"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/num2"
@@ -98,7 +101,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="2" />
+            android:text="2"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/num3"
@@ -109,7 +113,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="3" />
+            android:text="3"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/num4"
@@ -120,7 +125,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="4" />
+            android:text="4"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/num5"
@@ -131,7 +137,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="5" />
+            android:text="5"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/num6"
@@ -142,7 +149,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="6" />
+            android:text="6"
+            android:textColor="@color/white" />
         <Button
             android:id="@+id/num7"
             android:backgroundTint="@color/lightBlack"
@@ -152,7 +160,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="7" />
+            android:text="7"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/num8"
@@ -163,7 +172,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="8" />
+            android:text="8"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/num9"
@@ -174,7 +184,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="9" />
+            android:text="9"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/num0"
@@ -186,7 +197,8 @@
             app:cornerRadius="10dp"
             android:layout_columnSpan="2"
             android:layout_margin="5dp"
-            android:text="0" />
+            android:text="0"
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/dot"
@@ -197,7 +209,8 @@
             android:fontFamily="sans-serif-condensed"
             app:cornerRadius="10dp"
             android:layout_margin="5dp"
-            android:text="." />
+            android:text="."
+            android:textColor="@color/white"/>
 
     </GridLayout>
 
@@ -220,7 +233,8 @@
             android:fontFamily="sans-serif"
             app:cornerRadius="10dp"
             android:layout_margin="3dp"
-            android:text="+" />
+            android:text="+"
+            android:textColor="@color/white"/>
         <Button
             android:id="@+id/sub"
             android:backgroundTint="@color/seaOrange"
@@ -232,7 +246,8 @@
             android:fontFamily="sans-serif"
             app:cornerRadius="10dp"
             android:layout_margin="3dp"
-            android:text="-" />
+            android:text="-"
+            android:textColor="@color/white"/>
         <Button
             android:id="@+id/mul"
             android:backgroundTint="@color/seaOrange"
@@ -244,7 +259,8 @@
             android:fontFamily="sans-serif"
             app:cornerRadius="10dp"
             android:layout_margin="3dp"
-            android:text="*" />
+            android:text="*"
+            android:textColor="@color/white" />
         <Button
             android:id="@+id/div"
             android:backgroundTint="@color/seaOrange"
@@ -256,7 +272,8 @@
             android:fontFamily="sans-serif"
             app:cornerRadius="10dp"
             android:layout_margin="3dp"
-            android:text="/" />
+            android:text="/"
+            android:textColor="@color/white"/>
 
         <Button
             android:id="@+id/equal"
@@ -268,7 +285,8 @@
             android:fontFamily="sans-serif"
             app:cornerRadius="10dp"
             android:layout_margin="3dp"
-            android:text="=" />
+            android:text="="
+            android:textColor="@color/white" />
 
     </GridLayout>
     </LinearLayout>

@@ -3,6 +3,8 @@
 A simple and fully functional **Calculator Android Application** built using **Kotlin** in Android Studio.  
 This app performs all basic arithmetic operations with a clean and user-friendly interface.  
 
+[Click Here To Download](https://github.com/memon-gulam-45/Calculator-App-Using-Android/releases/tag/v1.0.o)
+
 ---
 
 ## ✨ Features
